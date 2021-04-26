@@ -1,4 +1,4 @@
-##Steps to run the project 
+#Steps to run the project 
 
 1. Download this project to your local machine.
 2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
