@@ -1,9 +1,9 @@
-#Steps to run the project 
+##Steps to run the project 
 
 1. Download this project to your local machine.
 2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
 3. Get your API key from https://www.themoviedb.org/.
-	To get API key :-
+	To get API key :- <br/>
 		Create an account in https://www.themoviedb.org/, click on the API link from the left hand sidebar in your account 
 		settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you 
 		don't have one. You will see the API key in your API sidebar once your request is approved.
